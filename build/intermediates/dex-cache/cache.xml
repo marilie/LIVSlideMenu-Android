@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/exploded-aar/LiVSlideMenu/livslidingmenu/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd5f94652a62db57ad06b1b6acd7d193931444c9">
+        <dex dex="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/pre-dexed/debug/classes-d9f555f1f836fef9b9ae1c1adcc6a3f7b332fd41.jar" />
+    </item>
+    <item
+        jar="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/pre-dexed/debug/classes-a2a5314425d05f557b1ba9ad11a9e4e37d0b9696.jar" />
+    </item>
+    <item
+        jar="/Users/marilie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-9323538f51f0c58868c8cef9d6081fe7d8fcaf3c.jar" />
+    </item>
+    <item
+        jar="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-6b5b8e88996a10b64fe2a4cb0a10fd161bb6ea10.jar" />
+    </item>
+    <item
+        jar="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/marilie/Documents/LiV/LiVSlideMenu/app/build/intermediates/pre-dexed/debug/classes-9feff5dbf7533fd682a1ea299d119a77def91187.jar" />
+    </item>
+
+</items>
